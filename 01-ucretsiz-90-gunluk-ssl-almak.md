@@ -4,7 +4,7 @@ GoGetSSL üzerinden 90 günlük ücretsiz SSL sertifikası almak için aşağıd
 
 1. GoGetSSL Web Sitesine Giriş Yapın
 
-Tarayıcınızda GoGetSSL Free SSL sayfasını açın.
+Tarayıcınızda GoGetSSL Free SSL sayfasını açın. (https://www.gogetssl.com/)
 
 Ana sayfada "Free SSL" veya "90 Günlük Deneme" seçeneğini bulun.
 

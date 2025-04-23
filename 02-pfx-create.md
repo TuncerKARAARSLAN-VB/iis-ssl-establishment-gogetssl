@@ -1,3 +1,7 @@
+https://manage.sslforfree.com/
+
+bu adresten sertifika üret ve download et
+
 Eğer elinde bir **.crt** dosyası varsa, bu dosya yalnızca sertifika bilgisini içerir. Ayrıca, SSL kurulumunda **private key** ve **CSR** dosyasına ihtiyacın olabilir. Genellikle bir sertifika otoritesi (CA) tarafından sağlanan sertifikayı yüklemek için bu adımları izleyebilirsin:
 
 ### 1. **Sertifika ve Özel Anahtar (.crt ve .key) Dosyalarının Hazır Olması**
